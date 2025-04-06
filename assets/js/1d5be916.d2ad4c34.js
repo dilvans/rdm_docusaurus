@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktestingofdoc=self.webpackChunktestingofdoc||[]).push([[7658],{6149:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/rdm_docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
