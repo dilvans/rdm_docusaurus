@@ -1,0 +1,339 @@
+Folder PATH listing for volume Windows
+Volume serial number is 5858-3EDC
+C:.
+|   .gitignore
+|   404.html
+|   frontmatter.json
+|   Gemfile
+|   Gemfile.lock
+|   LICENSE
+|   README.md
+|   structure.txt
+|   _config.yml
+|   
++---.frontmatter
+|   \---database
+|           pinnedItemsDb.json
+|           taxonomyDb.json
+|           
++---.jekyll-cache
+|   |   .gitignore
+|   |   
+|   \---Jekyll
+|       \---Cache
+|           +---Jekyll--Cache
+|           |   \---b7
+|           |           9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+|           |           
+|           \---Jekyll--Converters--Markdown
+|               +---0b
+|               |       e48b661fe5c41e257dd05daacba31e7a4083dcbb14e7ccac29db3c99194812
+|               |       
+|               +---14
+|               |       73c4877b3ca2e8ab06f977888f73d1cc0bfbce90c331c18b047a754c863b76
+|               |       
+|               +---16
+|               |       c3585f091a3c0d5dec0ec3ad1f96a71011128bd00f8e1e88e4f174ad5e6a85
+|               |       
+|               +---1b
+|               |       bbc043d85c740ee5e8d9ad26c4c5785ef3799fc09e13b87f8aff42981f8a1d
+|               |       
+|               +---28
+|               |       f474d242f0088e123a994302226c636ef3d21639172a1146ab63109efdb987
+|               |       
+|               +---3e
+|               |       4b3b455f15af5aa7fd82442546c5af1ceb08709d1981b9d19ff1b9fd64285b
+|               |       
+|               +---41
+|               |       37ffda493e0490ec4e7df9076c34e59be35af64d02d334bef25a4599721c4b
+|               |       
+|               +---5a
+|               |       6cd3b386b75c67a1f4419e0b57123e26168845130140f360db343947dc61fd
+|               |       
+|               +---5e
+|               |       dd2c5148ea688b4de0d197e14e21fdb2499d2d07852f0a2628fd39d1d2cb69
+|               |       
+|               +---64
+|               |       5ccfc5317fb8e98918f175bbaa8e57b5fe63a8f434fec329a49a4ae8214c8f
+|               |       
+|               +---69
+|               |       4498bf94393b1c5c2dbc5ed3b447c9d05d2103200e107f44cb671a664ead10
+|               |       
+|               +---6f
+|               |       8d084adcbca3dbf881fd31caec39df5fa29fccac71dbb647ee02592ee96c31
+|               |       
+|               +---70
+|               |       6e28956560bc22cebacf34dc28207843300267e6655f6de93ad85a31356bc9
+|               |       
+|               +---77
+|               |       9ff8341efdd716e06fe891ca3ba7599d42a4d1a70ac37b5b6c360f16e4f050
+|               |       
+|               +---7b
+|               |       d22fbe80cf12ce1d3f8c1032cca3c4a14d6392ca63389b38658772e1d14eca
+|               |       
+|               +---88
+|               |       173d6490c5f4f8e59b9dda42b05e594a6c453530260fb28c8dda7a991ad354
+|               |       5a2a55099754fa6c027faca0621c05f86b1df91e6ca1ce0a561f87c9bf5261
+|               |       
+|               +---8c
+|               |       380afcfebf3f5772a7450fe9ee1292be0bc0663ed5de4c0b28daa51e38b1b9
+|               |       
+|               +---8f
+|               |       cfb8658c059b129abf18c12f8c557d60d1dfe1f09eaf7072a6c5bf56989af5
+|               |       
+|               +---d1
+|               |       c8bb1d80b5a715290c786423aa517de80641a48dc67bba111c11c6dd7707c5
+|               |       
+|               +---e3
+|               |       d0ea8aa080aeec79354504bc90bfdd215b8f1285e63a9e53d4675508abc309
+|               |       
+|               +---e7
+|               |       ee54517fca54f3c2fe82337b3a6e4947928e84062624828aa799a19dfe9fd2
+|               |       
+|               +---e8
+|               |       d79343703fc3be5703ea39b283a7991f196b184a2e4c0b31e98332a14ebf3f
+|               |       
+|               +---ec
+|               |       5eb2bc503735f60c85cac4db72faeaddfab6ca5b61f7f198919b2941efec90
+|               |       
+|               \---fd
+|                       8875f2c0b6b031f61d001c32ade2de48c9542580eb3619ebaa4309db978c21
+|                       
++---assets
+|   |   dinosaur.gif
+|   |   search.html
+|   |   search_plus_index.json
+|   |   
+|   \---gitbook
+|       |   custom-local.css
+|       |   custom-local.js
+|       |   custom.css
+|       |   custom.js
+|       |   gitbook.js
+|       |   style.css
+|       |   theme.js
+|       |   
+|       +---fonts
+|       |   \---fontawesome
+|       |           fontawesome-webfont.eot
+|       |           fontawesome-webfont.svg
+|       |           fontawesome-webfont.ttf
+|       |           fontawesome-webfont.woff
+|       |           fontawesome-webfont.woff2
+|       |           FontAwesome.otf
+|       |           
+|       +---gitbook-plugin-back-to-top-button
+|       |       plugin.css
+|       |       plugin.js
+|       |       
+|       +---gitbook-plugin-copy-code-button
+|       |       toggle.js
+|       |       
+|       +---gitbook-plugin-expandable-chapters-small2
+|       |       expandable-chapters-small.css
+|       |       expandable-chapters-small.js
+|       |       
+|       +---gitbook-plugin-fontsettings
+|       |       fontsettings.js
+|       |       website.css
+|       |       
+|       +---gitbook-plugin-lunr
+|       |       lunr.min.js
+|       |       search-lunr.js
+|       |       
+|       +---gitbook-plugin-search
+|       |       lunr.min.js
+|       |       search-engine.js
+|       |       search.css
+|       |       search.js
+|       |       
+|       +---gitbook-plugin-search-pro
+|       |       jquery.mark.min.js
+|       |       search.css
+|       |       search.js
+|       |       
+|       +---gitbook-plugin-sharing
+|       |       buttons.js
+|       |       
+|       +---gitbook-plugin-splitter
+|       |       splitter.css
+|       |       splitter.js
+|       |       
+|       +---images
+|       |       apple-touch-icon-precomposed-152.png
+|       |       favicon.ico
+|       |       
+|       \---rouge
+|               base16.css
+|               bw.css
+|               colorful.css
+|               github.css
+|               gruvbox.css
+|               igor_pro.css
+|               magritte.css
+|               molokai.css
+|               monokai.css
+|               monokai_sublime.css
+|               pastie.css
+|               thankful_eyes.css
+|               tulip.css
+|               
++---_includes
+|       application-insights.html
+|       body.html
+|       cnzz.html
+|       disqus.html
+|       fixes-chrome-anchors.html
+|       footer.html
+|       gitbook-sharing.json.tpl
+|       google-analytics.html
+|       head.html
+|       mathjax.html
+|       mermaid.html
+|       metadata-home.json.tpl
+|       metadata-post.json.tpl
+|       metadata.json.tpl
+|       search.html
+|       toc-date.html
+|       toc.html
+|       
++---_layouts
+|       home.html
+|       post.html
+|       search-base.html
+|       
++---_others
+|       about.md
+|       
++---_pages
+|   |   about.md
+|   |   contact.md
+|   |   
+|   \---design
+|           draft.md
+|           
++---_posts
+|       2019-04-27-why.md
+|       2019-04-28-howto.md
+|       2019-04-29-license.md
+|       2021-08-10-toc.md
+|       2022-05-24-page_cover.md
+|       2022-06-26-wide_tables.md
+|       2022-06-30-tips_warnings_dangers.md
+|       2023-08-31-mermaid.md
+|       2023-10-14-math-latex.md
+|       2023-12-12-footnotes.md
+|       
+\---_site
+    |   404.html
+    |   feed.xml
+    |   frontmatter.json
+    |   index.html
+    |   LICENSE
+    |   
+    +---assets
+    |   |   dinosaur.gif
+    |   |   search.html
+    |   |   search_plus_index.json
+    |   |   
+    |   \---gitbook
+    |       |   custom-local.css
+    |       |   custom-local.js
+    |       |   custom.css
+    |       |   custom.js
+    |       |   gitbook.js
+    |       |   style.css
+    |       |   theme.js
+    |       |   
+    |       +---fonts
+    |       |   \---fontawesome
+    |       |           fontawesome-webfont.eot
+    |       |           fontawesome-webfont.svg
+    |       |           fontawesome-webfont.ttf
+    |       |           fontawesome-webfont.woff
+    |       |           fontawesome-webfont.woff2
+    |       |           FontAwesome.otf
+    |       |           
+    |       +---gitbook-plugin-back-to-top-button
+    |       |       plugin.css
+    |       |       plugin.js
+    |       |       
+    |       +---gitbook-plugin-copy-code-button
+    |       |       toggle.js
+    |       |       
+    |       +---gitbook-plugin-expandable-chapters-small2
+    |       |       expandable-chapters-small.css
+    |       |       expandable-chapters-small.js
+    |       |       
+    |       +---gitbook-plugin-fontsettings
+    |       |       fontsettings.js
+    |       |       website.css
+    |       |       
+    |       +---gitbook-plugin-lunr
+    |       |       lunr.min.js
+    |       |       search-lunr.js
+    |       |       
+    |       +---gitbook-plugin-search
+    |       |       lunr.min.js
+    |       |       search-engine.js
+    |       |       search.css
+    |       |       search.js
+    |       |       
+    |       +---gitbook-plugin-search-pro
+    |       |       jquery.mark.min.js
+    |       |       search.css
+    |       |       search.js
+    |       |       
+    |       +---gitbook-plugin-sharing
+    |       |       buttons.js
+    |       |       
+    |       +---gitbook-plugin-splitter
+    |       |       splitter.css
+    |       |       splitter.js
+    |       |       
+    |       +---images
+    |       |       apple-touch-icon-precomposed-152.png
+    |       |       favicon.ico
+    |       |       
+    |       \---rouge
+    |               base16.css
+    |               bw.css
+    |               colorful.css
+    |               github.css
+    |               gruvbox.css
+    |               igor_pro.css
+    |               magritte.css
+    |               molokai.css
+    |               monokai.css
+    |               monokai_sublime.css
+    |               pastie.css
+    |               thankful_eyes.css
+    |               tulip.css
+    |               
+    +---jekyll
+    |       2019-04-27-why.html
+    |       2019-04-28-howto.html
+    |       2019-04-29-license.html
+    |       2021-08-10-toc.html
+    |       2022-05-24-page_cover.html
+    |       2022-06-26-wide_tables.html
+    |       2022-06-30-tips_warnings_dangers.html
+    |       2023-08-31-mermaid.html
+    |       2023-10-14-math-latex.html
+    |       2023-12-12-footnotes.html
+    |       
+    +---others
+    |   \---about
+    |           index.html
+    |           
+    \---pages
+        +---about
+        |       index.html
+        |       
+        +---contact
+        |       index.html
+        |       
+        \---design
+            \---draft
+                    index.html
+                    
