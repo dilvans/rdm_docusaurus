@@ -46,7 +46,7 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/dilvans/rdm_docusaurus/edit/main/',
+          editUrl: 'https://github.com/dilvans/rdm_docusaurus/edit/master/',
 
           // editUrl:   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
@@ -56,7 +56,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/dilvans/rdm_docusaurus/edit/main/',
+          editUrl: 'https://github.com/dilvans/rdm_docusaurus/edit/master/',
 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -73,13 +73,15 @@ const config = {
     ],
   ],
 
+  plugins: [require.resolve('docusaurus-lunr-search')],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Knowledge Hub',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -89,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
