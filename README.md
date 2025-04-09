@@ -1,3 +1,7 @@
+### Status   
+![Deploy to GitHub Pages](https://github.com/dilvans/rdm_docusaurus/actions/workflows/deploy.yml/badge.svg)
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
